@@ -73,7 +73,7 @@ maven:
       modules:
         - ""
         - annotations
-      version: "1.6.2"
+      version: "1.6.3"
 
   com.google.code.findbugs:
     annotations:
